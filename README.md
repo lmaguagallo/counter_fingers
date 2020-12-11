@@ -1,4 +1,4 @@
-# Procesamiento de imágenes con el uso de Opencv
+# Conteo de dedos con el uso de Opencv
 
 Se identificara cuantos dedos están siendo levantados dentro de cierta área de la imagen. Para ello estaremos usando defectos convexos, no se ha realizado ningún tipo de entrenamiento, sino se ha aplicado operaciones sobre contornos.
 
