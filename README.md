@@ -31,8 +31,4 @@ source enviromentName/bin/activate
 En Windows
 ```
 estadistica-env\Scripts\activate
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> b2abde9317ddd963a3c6838cf4a7147aaf298c64
